@@ -2,7 +2,7 @@ src = src/number-theory/*.c
 include = -Iinclude
 
 all:
-	gcc -c $(src) $(include)
+	gcc -c -O3 -march=native -flto $(src) $(include)
 	mv *.o build/
 	ar rcs lib/libmathplus.a build/*.o
 
