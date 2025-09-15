@@ -1,5 +1,7 @@
 #pragma once
 
-#include <mathplus/number-theory/gcd.h>
-#include <mathplus/number-theory/lcm.h>
-#include <mathplus/number-theory/prime.h>
+#include <stdbool.h>
+
+unsigned long long gcd(long long a, long long b);
+unsigned long long lcm(long long a, long long b);
+bool is_prime(long long n);

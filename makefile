@@ -1,8 +1,8 @@
-src = src/number-theory/*.c
+src = src/*.c
 include = -Iinclude
 
 all:
-	gcc -c -O3 -march=native -flto $(src) $(include)
+	gcc -c -O3 -Ofast -march=native -flto -funroll-loops -ftree-vectorize -fomit-frame-pointer $(src) $(include)
 	mv *.o build/
 	ar rcs lib/libmathplus.a build/*.o
 
