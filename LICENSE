@@ -1,21 +1,27 @@
-MIT License
+Mathium (c) 2025 Henrique Rodrigues Santos. All rights reserved.
 
-Copyright (c) 2025 Henrique Rodrigues Santos
+1. License Grant
+   - This license permits the use of Mathium only under the terms set forth herein.
+   - Any use of Mathium, including personal, academic, or commercial purposes, requires a valid paid license.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Restrictions
+   - Redistribution, modification, sublicensing, or inclusion in other software or libraries is strictly prohibited without written permission from the author.
+   - Reverse engineering, decompiling, or disassembling Mathium is strictly prohibited.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Payment
+   - A paid license must be obtained prior to any use.
+   - For license acquisition, please contact the author: Henrique Rodrigues.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Warranty Disclaimer
+   - Mathium is provided "as is" without any warranty of any kind.
+   - The author makes no guarantees regarding performance, suitability, or fitness for any purpose.
+   - The author shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of Mathium.
+
+5. Credits
+   - Any use of Mathium must credit the author, Henrique Rodrigues, in project documentation, about sections, or acknowledgments.
+
+6. Termination
+   - This license is automatically terminated if the terms are violated.
+   - Upon termination, all copies of Mathium must be deleted or returned to the author.
+
+
