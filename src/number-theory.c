@@ -63,3 +63,27 @@ size_t prime_factors(unsigned long long n, unsigned long long factors[], size_t 
     if (n > 1 && count < maxfactors) factors[count] = n;
     return count;
 }
+
+unsigned long long totient(unsigned long long n){
+    unsigned long long factors[64];
+    size_t count = prime_factors(n, factors, 64);
+
+    unsigned long long result = n;
+
+    for (size_t i = 0; i < count; i++){
+        unsigned long long p = factors[i];
+
+        bool is_unique = true;
+        for (size_t j = 0; j < i; j++){
+            if (factors[j] == p){
+                is_unique = false;
+                break;
+            }
+        }
+        if (is_unique){
+            result = result / p * (p - 1);
+        }
+    }
+
+    return result;
+}
