@@ -1,4 +1,4 @@
-Mathium (c) 2025 Henrique Rodrigues Santos. All rights reserved.
+### Mathium (c) 2025 Henrique Rodrigues Santos. All rights reserved.
 
 1. License Grant
    - This license permits the use of Mathium only under the terms set forth herein.
