@@ -1,3 +1,5 @@
+![Placeholder](mathium.png)
+
 # Mathium
 Mathium is a advanced mathematics library for C and C++, its main focus is to act as an extension <br>
 to the math.h standard mathematics C library, it haves multiple fast functions and formulas for <br>
@@ -21,3 +23,4 @@ applications that need speed and precision.
 ## Support
 For any kind of support about the Mathium library<br>contact the official email:
 **[mathiumlib@gmail.com](mailto:mathiumlib@gmail.com)**.
+
