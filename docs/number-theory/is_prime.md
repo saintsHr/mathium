@@ -13,5 +13,6 @@ is_prime(n);
 
 ### n: 
 - **Desc:** number to check if is prime
-- **Type:** *long long*
+- **Type:** *unsigned long long*
+
 
