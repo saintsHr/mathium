@@ -21,9 +21,6 @@ bool is_prime(unsigned long long n){
 }
 
 unsigned long long gcd(unsigned long long a, unsigned long long b){
-    a = llabs(a);
-    b = llabs(b);
-
     while (b != 0){
         long long temp = b;
         b = a % b;
@@ -35,9 +32,6 @@ unsigned long long gcd(unsigned long long a, unsigned long long b){
 
 unsigned long long lcm(unsigned long long a, unsigned long long b){
     if (a == 0 || b == 0) return 0;
-
-    a = llabs(a);
-    b = llabs(b);
 
     unsigned long long result = ((a / gcd(a, b)) * b);
 
