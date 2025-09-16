@@ -5,7 +5,7 @@ applications that need speed and precision.
 
 ## Features
 ### 1 Modules:
-- Number Theory (4 functions)
+- **Number Theory** (4 functions)
 
 ## How to Link & Use
 ### Method 1:
@@ -17,4 +17,5 @@ applications that need speed and precision.
 - copy ```include``` and ```lib``` folders to your preference directory
 - add those flags in the compiler command: <br>
 ```-I[path to the include folder] -L[path to the lib folder] -lmathium```
+
 
