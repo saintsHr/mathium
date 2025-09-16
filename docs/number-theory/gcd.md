@@ -1,5 +1,8 @@
 # gcd()
 
+## Description:
+returns the greatest common divisor of 2 given numbers
+
 ## Syntax:
 ```c
 gcd(a, b);
@@ -15,3 +18,4 @@ gcd(a, b);
 ### b: 
 - **Desc:** second operand
 - **Type:** *long long*
+
