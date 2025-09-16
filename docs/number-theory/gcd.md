@@ -13,9 +13,10 @@ gcd(a, b);
 
 ### a: 
 - **Desc:** first operand
-- **Type:** *long long*
+- **Type:** *unsigned long long*
 
 ### b: 
 - **Desc:** second operand
-- **Type:** *long long*
+- **Type:** *unsigned long long*
+
 
