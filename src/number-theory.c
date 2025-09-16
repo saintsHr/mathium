@@ -1,4 +1,4 @@
-#include <mathplus/number-theory.h>
+#include <mathium/number-theory.h>
 #include <stdlib.h>
 
 bool is_prime(long long n){
