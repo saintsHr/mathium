@@ -5,7 +5,7 @@ applications that need speed and precision.
 
 ## Features
 ### 1 Modules:
-- **Number Theory** (4 functions)
+- **Number Theory** (5 functions)
 
 ## How to Link & Use
 ### Method 1:
@@ -18,4 +18,6 @@ applications that need speed and precision.
 - add those flags in the compiler command: <br>
 ```-I[path to the include folder] -L[path to the lib folder] -lmathium```
 
-
+## Support
+For any kind of support about the Mathium library<br>contact the official email:
+**[mathiumlib@gmail.com](mailto:mathiumlib@gmail.com)**.
