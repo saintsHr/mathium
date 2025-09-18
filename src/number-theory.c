@@ -1,4 +1,4 @@
-#include <mathium/number-theory.h>
+#include "mathium/number-theory.h"
 #include <stdlib.h>
 #include <string.h>
 
