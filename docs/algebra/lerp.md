@@ -7,7 +7,7 @@ applies linear interpolation
 ```c
 lerp(a, b, t);
 ```
-### prime_factors()
+### lerp()
 - **Desc:** the actual function
 - **Return:** *long long* ( number after liner interpolation )
 
@@ -22,3 +22,4 @@ lerp(a, b, t);
 ### t: 
 - **Desc:** a value between 1 and 0, used to define the final result
 - **Type:** *short*
+
