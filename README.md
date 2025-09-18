@@ -6,8 +6,9 @@ to the math.h standard mathematics C library, it haves multiple fast functions a
 applications that need speed and precision.
 
 ## Features
-### 1 Modules:
+### 2 Modules:
 - **Number Theory** (5 functions)
+- **Algebra** (5 functions)
 
 ## How to Link & Use
 ### Method 1:
@@ -23,4 +24,5 @@ applications that need speed and precision.
 ## Support
 For any kind of support about the Mathium library<br>contact the official email:
 **[mathiumlib@gmail.com](mailto:mathiumlib@gmail.com)**.
+
 
