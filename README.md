@@ -14,12 +14,12 @@ applications that need speed and precision.
 ### Method 1:
 - copy ```include``` and ```lib``` folders to your project
 - add those flags in the compiler command: <br>
-```-Iinclude -Llib -lmathium```
+```-Iinclude -Llib -lmathium[32 or 64 bits]```
 
 ### Method 2:
 - copy ```include``` and ```lib``` folders to your preference directory
 - add those flags in the compiler command: <br>
-```-I[path to the include folder] -L[path to the lib folder] -lmathium```
+```-I[path to the include folder] -L[path to the lib folder] -lmathium[32 or 64 bits]```
 
 ## Support
 For any kind of support about the Mathium library<br>contact the official email:
