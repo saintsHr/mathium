@@ -1,4 +1,4 @@
-![Placeholder](mathium.png)
+![Placeholder](assets/mathium.png)
 
 # Mathium
 Mathium is a advanced mathematics library for C and C++, its main focus is to act as an extension <br>
