@@ -8,21 +8,10 @@ applications that need speed and precision.
 ## Features
 ### 2 Modules:
 - **Number Theory** (5 functions)
-- **Algebra** (5 functions)
-
-## How to Link & Use
-### Method 1:
-- copy ```include``` and ```lib``` folders to your project
-- add those flags in the compiler command: <br>
-```-Iinclude -Llib -lmathium[32 or 64 bits]```
-
-### Method 2:
-- copy ```include``` and ```lib``` folders to your preference directory
-- add those flags in the compiler command: <br>
-```-I[path to the include folder] -L[path to the lib folder] -lmathium[32 or 64 bits]```
+- **Algebra** (5 functions)
 
 ## Support
-For any kind of support about the Mathium library<br>contact the official email:
+For any kind of support, bug report, suggestions, etc, about the Mathium library<br>contact the official email:
 **[mathiumlib@gmail.com](mailto:mathiumlib@gmail.com)**.
 
 
